@@ -8,30 +8,30 @@
 
 /**
  *
- *  * main - Entry point
+ *  main - Entry point
  *
- *   *
  *
- *    * Return: Always 0 (Success)
  *
- *     */
+ *  Return: Always 0 (Success)
+ *
+ **/
 
 int main(void)
 
 {
+	char alpha = 'a';
 
-		char alpha = 'a';
+	while (alpha <= 'z')
 
+{
+	putchar (alpha
+			)
+	alpha++;
 
+}
 
-		while (alpha <= 'z')
+	putchar('\n');
 
-					{
-		putchar (alpha)
-		alpha++;
-
-													}
-				putchar('\n');
-				return (0);
+	return (0);
 
 }
