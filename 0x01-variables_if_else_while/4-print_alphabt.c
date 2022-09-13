@@ -7,6 +7,7 @@
  **/
 
 /* main code*/
+
 int main(void)
 {
 	char letter;
@@ -15,8 +16,10 @@ int main(void)
 {
 
 	if (letter != 'e' && letter != 'q')
+{
 
 	putchar(letter);
+}
 
 	putchar('\n');
 }
