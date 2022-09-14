@@ -6,7 +6,7 @@
  *
  * Return: Always 0.
  **/
-void print_times_table(int n)
+int void(main)
 {
 int digit1, digit2;
 for (digit1 = 0; digit1 < 9; digit1++)
