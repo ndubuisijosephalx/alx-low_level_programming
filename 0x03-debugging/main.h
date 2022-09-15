@@ -1,4 +1,3 @@
-carrie@ubuntu:/debugging$ cat 1-main.c
 #ifndef MAIN_H
 #define MAIN_H
 
@@ -6,6 +5,4 @@ carrie@ubuntu:/debugging$ cat 1-main.c
 
 void positive_or_negative(int i);
 
-#endif /* MAIN_H */
-
-carrie@ubuntu:/debugging$
+#endif /* MAIN_H*/
