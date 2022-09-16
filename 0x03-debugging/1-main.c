@@ -5,7 +5,6 @@
  * Return: 0
  */
 
-/*main function*/
 int main(void)
 {
 int i;
