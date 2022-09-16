@@ -7,12 +7,7 @@
  *
  *Return: Always 0 (Success)
  */
-
-/*main: method*/
 int main(void)
-
 {
-
 return (0);
-
 }
