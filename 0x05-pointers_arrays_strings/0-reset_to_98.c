@@ -1,15 +1,13 @@
 #include "main.h"
 
 /**
- * C program to use pointer function
- *
- * main reset funtion
+ * reset_to_98 - Takes a pointer to an int and updates
+ * the value it points to to 98.
+ * @n: The pointer to an int.
  */
-/*Main: function prototype*/
-                                                                                                                                                                      
+
+/* *n: reset_to_98 main function prototype*/
 void reset_to_98(int *n)
 {
-
 *n = 98;
-
 }
