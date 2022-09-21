@@ -13,10 +13,6 @@ char *_strcpy(char *dest, const char *src)
 
 {
 
-	int index = 0;
-
-
-
 	while (src[index])
 
 	{
@@ -30,5 +26,4 @@ char *_strcpy(char *dest, const char *src)
 
 
 	return (dest);
-
 }
