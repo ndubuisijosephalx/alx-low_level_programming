@@ -1,4 +1,4 @@
-include main.h                                                                                                                                                        
+#include main.h                                                                                                                                                        
                                                                                                                                                                       
 /**                                                                                                                                                                   
  * C program to use pointer function                                                                                                                                  
