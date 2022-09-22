@@ -1,10 +1,9 @@
-(22 sloc)  670 Bytes
 #ifndef MAIN_H
 #define MAIN_H
 
 /**
- * File: holberton.h
- * Auth: Brennan D Baraban
+ * File: main.h
+ * Auth: Joben Ndus
  * Desc: Header file containing prototypes for all functions
  * used in the 0x05-pointers_arrays_strings directory.
  */
