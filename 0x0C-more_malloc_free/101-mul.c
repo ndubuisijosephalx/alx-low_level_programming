@@ -229,4 +229,3 @@ int main(int argc, char *argv[])
 	free(final_prod);
 
 	return (0);
-}
