@@ -9,8 +9,12 @@
  *
  * Return: A pointer to the filled memory area @s
  *
- *_memset main  n: @unsigned integer
+ *_memset n: @unsigned integer
+ *
+ *
+ * function _memset: returns the value of the set
  */
+/*@function _memset: returns true*/
 void *_memset(void *s, int c, size_t n)
 {
 	unsigned int index;
