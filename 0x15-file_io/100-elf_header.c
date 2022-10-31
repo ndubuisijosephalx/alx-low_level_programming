@@ -1,28 +1,3 @@
-
-Sign up
-bdbaraban
-/
-holbertonschool-low_level_programming
-Public
-Code
-Issues
-2
-Pull requests
-3
-Actions
-Projects
-Security
-Insights
-holbertonschool-low_level_programming/0x14-file_io/100-elf_header.c
-@234761
-234761 Accounted for big endian in print_type and print_entry
- 1 contributor
-319 lines (290 sloc)  6.75 KB
-/*
- * File: 100-elf_header.c
- * Auth: Brennan D Baraban
- */
-
 #include <elf.h>
 #include <sys/types.h>
 #include <sys/stat.h>
